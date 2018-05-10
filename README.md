@@ -19,8 +19,8 @@ Les orties peuvent être plantées en utilisant les **graines d'ortie**. Les pla
 
 Cette ortie peut être utilisée pour réaliser de la soupe d'ortie.
 Pour faire une soupe d'ortie froide, il faut assembler:
-| | ortie | |
+|     | ortie      | |
 | sel | seau d'eau | |
-| | bol | |
+|     | bol        | |
 
 La soupe d'ortie froide peut être chaufée dans un four pour en faire de la soupe d'ortie chaude!
