@@ -8,7 +8,7 @@ Ce mod a été créé lors d'ateliers numériques par le club Graines2Tech de la
 # Dépendances
 
 Ce mod dépend des mods suivants:
-- [farming redo] (https://github.com/tenplus1/farming)
+- [farming redo](https://github.com/tenplus1/farming)
 - bucket
 
 # Les items
@@ -19,8 +19,8 @@ Les orties peuvent être plantées en utilisant les **graines d'ortie**. Les pla
 
 Cette ortie peut être utilisée pour réaliser de la soupe d'ortie.
 Pour faire une soupe d'ortie froide, il faut assembler:
-||ortie||
-|sel|seau d'eau||
-||bol||
+| | ortie | |
+| sel | seau d'eau | |
+| | bol | |
 
 La soupe d'ortie froide peut être chaufée dans un four pour en faire de la soupe d'ortie chaude!
